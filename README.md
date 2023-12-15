@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theimperialone&label=Profile%20views&color=0e75b6&style=flat" alt="theimperialone" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS** & **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheImperialOne](https://github.com/TheImperialOne)
 
-- 💬 Ask me about **Android, Java, Wordpress, Wix, Software Testing**
+- 💬 Ask me about **Android, Java, WordPress, Wix, Software Testing**
 
 - 📫 How to reach me **aniketkale2003d@gmail.com**
 
