@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <center>
         <h1>Sorry! This site is under maintenance, please visit later! </h1>
+        <Analytics />
       </center>
     </div>
   );
