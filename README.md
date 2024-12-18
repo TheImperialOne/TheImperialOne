@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React JS** & **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TheImperialOne](https://github.com/TheImperialOne)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/TheImperialOne)
 
 - 💬 Ask me about **Android, Java, WordPress, Wix, Software Testing**
 
 - 📫 How to reach me **aniketkale2003d@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fkYO8_3TzwtTJDXyP0PQl39VWFLqaTtK/view?usp=sharing](https://drive.google.com/file/d/1fkYO8_3TzwtTJDXyP0PQl39VWFLqaTtK/view?usp=sharing)
+- 📄 Know about my experiences [Google Drive](https://drive.google.com/file/d/1fkYO8_3TzwtTJDXyP0PQl39VWFLqaTtK/view?usp=sharing) and visit [Portfolio](https://theimperialone.netlify.app/) for more!
 
 - ⚡ Fun fact **I sometimes overthink**
 
