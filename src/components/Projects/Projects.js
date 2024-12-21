@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
+import x_beat from "../../Assets/Projects/x_beat.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
@@ -26,8 +26,8 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="AyurSage"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/"
+              description="AyurSage is a digital platform that combines traditional Ayurvedic wisdom with advanced technology, offering personalized herbal recommendations based on classical texts for improved well-being."
+              ghLink="https://github.com/theimperialemperor/ayursage"
               //demoLink="https://chatify-49.web.app/"
             />
           </Col>
@@ -37,24 +37,24 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Setu_X"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/"
+              description="Setu_X is a secure healthcare app for private hospital chains, enabling efficient management of patient records using unique IDs. It ensures data privacy, streamlined access, and improved care delivery."
+              ghLink="https://github.com/theimperialOne/setu_x"
               //demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={x_beat}
               isBlog={false}
               title="X-Beat"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/"
-              //demoLink="https://editor.soumya-jit.tech/"
+              description="X-Beat is a modern React-based e-commerce platform for headphone retail. It features a clean, responsive design with dynamic product displays and intuitive navigation, offering a seamless and engaging shopping experience."
+              ghLink="https://github.com/TheImperialOne/x-beat"
+              demoLink="https://x-beatt.netlify.app/"
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          {/*<Col md={4} className="project-card">
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
@@ -86,7 +86,7 @@ function Projects() {
               ghLink="https://github.com/"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
-          </Col>
+          </Col>*/}
         </Row>
       </Container>
     </Container>
