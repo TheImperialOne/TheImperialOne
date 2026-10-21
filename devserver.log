@@ -1,0 +1,60 @@
+
+> portfolio@0.1.0 start
+> react-scripts start
+
+Starting the development server...
+
+Compiled successfully!
+
+You can now view portfolio in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.0.107:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+assets by path [1m[32mstatic/[39m[22m 16.7 MiB
+  assets by path [1m[32mstatic/media/[39m[22m 652 KiB
+    assets by info 532 KiB [1m[32m[immutable][39m[22m
+      assets by path [1m[32mstatic/media/*.png[39m[22m 132 KiB 2 assets
+      + 3 assets
+    asset [1m[32mstatic/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg[39m[22m 108 KiB [1m[32m[emitted][39m[22m (auxiliary name: main)
+    asset [1m[32mstatic/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg[39m[22m 12.7 KiB [1m[32m[emitted][39m[22m (auxiliary name: main)
+  assets by path [1m[32mstatic/js/*.js[39m[22m 16 MiB
+    assets by chunk 1.37 MiB (id hint: vendors) 2 assets
+    asset [1m[32mstatic/js/bundle.js[39m[22m 14.7 MiB [1m[32m[emitted][39m[22m (name: main) 1 related asset
+    asset [1m[32mstatic/js/src_components_Resume_ResumeNew_js.chunk.js[39m[22m 9.38 KiB [1m[32m[emitted][39m[22m 1 related asset
+    asset [1m[32mstatic/js/node_modules_web-vitals_dist_web-vitals_js.chunk.js[39m[22m 6.92 KiB [1m[32m[emitted][39m[22m 1 related asset
+asset [1m[32masset-manifest.json[39m[22m 2.1 KiB [1m[32m[emitted][39m[22m
+asset [1m[32mindex.html[39m[22m 1.85 KiB [1m[32m[emitted][39m[22m
+orphan modules 246 KiB [1m[33m[orphan][39m[22m 170 modules
+runtime modules 32.5 KiB 16 modules
+modules by path [1m./node_modules/[39m[22m 14.1 MiB 628 modules
+modules by path [1m./src/[39m[22m 303 KiB (javascript) 532 KiB (asset)
+  javascript modules 303 KiB 32 modules
+  asset modules 210 bytes (javascript) 532 KiB (asset)
+    modules by path [1m./src/Assets/*.png[39m[22m 84 bytes (javascript) 132 KiB (asset) 2 modules
+    + 3 modules
+modules by mime type [1mimage/svg+xml[39m[22m 4.4 KiB
+  [1mdata:image/svg+xml,%3csvg xmlns=%27..[39m[22m 281 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1mdata:image/svg+xml,%3csvg xmlns=%27..[39m[22m 279 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1mdata:image/svg+xml,%3csvg xmlns=%27..[39m[22m 161 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  + 13 modules
++ 6 modules
+webpack 5.70.0 compiled [1m[32msuccessfully[39m[22m in 67456 ms
+Compiling...
+Compiled successfully!
+assets by status 2.02 MiB [1m[32m[cached][39m[22m 11 assets
+assets by status 14.7 MiB [1m[32m[emitted][39m[22m
+  assets by chunk 14.7 MiB (name: main)
+    asset [1m[32mstatic/js/bundle.js[39m[22m 14.7 MiB [1m[32m[emitted][39m[22m (name: main) 1 related asset
+    asset [1m[32mmain.f342ef5580757c06f39f.hot-update.js[39m[22m 360 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main) 1 related asset
+  assets by path [1m[32m*.json[39m[22m 2.25 KiB
+    asset [1m[32masset-manifest.json[39m[22m 2.22 KiB [1m[32m[emitted][39m[22m
+    asset [1m[32mmain.f342ef5580757c06f39f.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 1.85 KiB [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 14.7 MiB (13.9 MiB) = [1m[32mstatic/js/bundle.js[39m[22m 14.7 MiB [1m[32mmain.f342ef5580757c06f39f.hot-update.js[39m[22m 360 bytes 8 auxiliary assets
+cached modules 14.6 MiB (javascript) 532 KiB (asset) [1m[32m[cached][39m[22m 857 modules
+runtime modules 32.5 KiB 16 modules
+webpack 5.70.0 compiled [1m[32msuccessfully[39m[22m in 1290 ms

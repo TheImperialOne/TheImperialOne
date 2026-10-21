@@ -1,0 +1,14 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+html { scroll-behavior: smooth; }
+body { @apply bg-bg text-slate-50 font-body antialiased; }
+body::before { content:""; position: fixed; inset: 0; z-index: -1; pointer-events: none;
+  background: radial-gradient(60rem 40rem at 80% -10%, rgba(199,112,240,.14), transparent 60%); }
+@media (pointer: fine) { html.has-cursor, html.has-cursor a, html.has-cursor button { cursor: none; } }
+@keyframes marquee { to { transform: translateX(-50%); } }
+.marquee { animation: marquee 35s linear infinite; }
+.marquee-wrap:hover .marquee { animation-play-state: paused; }
+@media (prefers-reduced-motion: reduce) { .marquee { animation: none; } }
+:focus-visible { outline: 2px solid #c770f0; outline-offset: 3px; border-radius: 6px; }
+.cursor { animation: blink 1s steps(1) infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
